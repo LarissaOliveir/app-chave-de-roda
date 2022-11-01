@@ -8,6 +8,10 @@
 # detalhes
 -> O projeto em si trouxe um conhecimento novo e cheio de novas práticas, a conexão do banco de dados foi a parte mais delicada de modo geral, principalmente no tratamento dos dados e foi também onde mais agregou conhecimento novos.
 
+# Equipe
+-> Pâmella Barbosa 
+-> Larissa Ramos
+
 # feedback
 
 ![image](https://user-images.githubusercontent.com/95496736/198158816-b5dc874a-1fae-46b0-8dc8-ff264618bf43.png)
